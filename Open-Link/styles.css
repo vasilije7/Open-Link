@@ -62,18 +62,23 @@ hr {
   color: rgb(77, 75, 75);
   border: 1px solid rgb(136, 134, 134);
 }
+.about-us-section h2 {
+  margin-bottom: 40px;
+}
 .text-container {
   border: 1px gray solid;
   border-radius: 8px;
   padding: 15px;
   height: 200px;
+  width: 1000px;
+  margin-left: 140px;
+  margin-top: 20px;
 }
 .text-container p {
   margin-left: 220px;
-  margin-top: -120px;
+  margin-top: -145px;
 }
-.text-container img {
-}
+
 @media only screen and (max-width: 600px) {
   .logo-holder img {
     margin-top: 70px;
@@ -172,4 +177,514 @@ footer {
   .footer-images {
     margin-left: 80px;
   }
+}
+@media only screen and (max-width: 768px) {
+  .naslov-2 {
+    margin-left: 50px;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .logo-holder img {
+    margin-left: 200px;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .secondary-menu input {
+    margin-left: 0px;
+    display: inline-block;
+  }
+}
+@media only screen and (max-width: 768px) {
+  header h4 {
+    font-size: 15px;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .main-menu ul {
+    margin: 3px;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .text-container {
+    margin-left: 10px;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .team-section-content-images {
+    margin-left: 190px;
+    margin-right: 200px;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .team-section-content-text {
+    margin-left: 0px;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .about-us-section {
+    margin-left: 5px;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .about-us-section p {
+    width: 400px;
+    margin-left: 180px;
+    margin-bottom: 30px;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .about-us-section h2 {
+    width: 300px;
+    margin-left: 220px;
+    margin-bottom: 20px;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .footer {
+    height: 60px;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .footer-images {
+    margin-left: 220px;
+  }
+}
+.logo-holder-PS {
+  width: 250px;
+}
+.naslov-2-PS {
+  font-size: 17px;
+  color: rgb(138, 136, 136);
+  margin-left: 350px;
+}
+.linija-1 {
+  border: 1px solid rgb(165, 164, 164);
+  width: 300px;
+  background: rgb(165, 164, 164);
+  margin-left: 80px;
+  margin-top: 15px;
+}
+.poslovni-sistem .poslovni-sistem-sadrzaj .naslov {
+  font-size: 38px;
+  margin-left: 450px;
+  margin-top: -60px;
+  color: rgb(87, 86, 86);
+}
+.linija-2 {
+  border: 1px solid rgb(165, 164, 164);
+  width: 850px;
+  background: rgb(165, 164, 164);
+  margin-left: 440px;
+  margin-top: -15px;
+}
+
+.main-menu-PS nav ul li {
+  display: inline-block;
+}
+.main-menu-PS nav ul li a {
+  color: rgb(39, 39, 39);
+  margin-left: 33px;
+  font-size: 14px;
+}
+.main-menu-PS nav ul li a:hover {
+  background-color: rgb(221, 217, 217);
+}
+
+.poslovni-sistem {
+  background-color: rgb(214, 211, 211);
+  height: 800px;
+  padding-top: 2px;
+}
+.poslovni-sistem-sadrzaj {
+  margin: 70px;
+  margin-top: 20px;
+  background-color: white;
+  height: 800px;
+}
+.header-PS {
+  background-color: rgb(238, 235, 235);
+  height: 30px;
+  padding: 5px;
+  font-size: 12px;
+  border-top: solid rgb(133, 132, 132);
+}
+.header-PS p {
+  margin-left: 25px;
+}
+.poslovni-sistem-sadrzaj h3 {
+  margin-left: 100px;
+  margin-top: 50px;
+  color: rgb(146, 141, 141);
+}
+.nav-PS {
+  margin-left: 70px;
+  margin-top: 10px;
+}
+.nav-PS nav ul li a {
+  color: rgb(187, 48, 48);
+  text-transform: initial;
+  font-size: 18px;
+}
+.nav-PS nav ul {
+  list-style: none;
+}
+
+.nav-PS nav ul li {
+  margin-top: 20px;
+}
+.nav-PS nav ul li a:hover {
+  background-color: rgb(221, 217, 217);
+}
+.nav-button {
+  border-bottom: 1px solid rgb(199, 197, 197);
+  width: 277px;
+  padding-bottom: 4px;
+}
+.nav-button:hover {
+  background-color: rgb(230, 230, 230);
+}
+.img-PS img {
+  max-width: 100%;
+  height: 454px;
+  margin-left: 340px;
+  margin-top: -280px;
+}
+.poslovni-sistem .poslovni-sistem-sadrzaj .naslov-NT {
+  margin-left: 1000px;
+  font-size: 32px;
+  margin-top: -60px;
+  color: rgb(146, 141, 141);
+}
+.linija-2-NT {
+  width: 270px;
+  border: solid 1px rgb(172, 172, 172);
+  background-color: gray;
+  margin-left: 990px;
+  margin-top: -6px;
+}
+.linija-1-NT {
+  width: 900px;
+  border: 1px rgb(197, 197, 197) solid;
+  background-color: gray;
+  margin-left: 30px;
+}
+.p-NT {
+  font-size: 38px;
+  margin-left: 50px;
+  margin-top: 10px;
+  color: rgb(70, 67, 67);
+}
+.nav-NT {
+  margin-left: 960px;
+  margin-top: 10px;
+}
+.nav-NT nav ul li a {
+  color: rgb(187, 48, 48);
+  text-transform: initial;
+  font-size: 18px;
+}
+.nav-NT nav ul {
+  list-style: none;
+}
+
+.nav-NT nav ul li {
+  margin-top: 20px;
+}
+.img-NT img {
+  max-width: 908px;
+  height: 454px;
+  margin-left: -930px;
+  margin-top: -300px;
+}
+.linija-2-MN {
+  width: 1300px;
+  border-top: 1px solid rgb(163, 163, 163);
+  margin-left: 40px;
+}
+.menadzment {
+  margin-top: 30px;
+  margin-left: 40px;
+  color: rgb(128, 123, 123);
+}
+.menadzment-sadrzaj-tekst {
+  margin-left: 250px;
+  margin-top: 30px;
+}
+.menadzment-sadrzaj-img img {
+  width: 200px;
+  margin-left: 30px;
+  margin-top: -190px;
+}
+.menadzment-sadrzaj-tekst h3 {
+  margin-left: 10px;
+  color: red;
+  font-weight: 400;
+}
+.menadzment-sadrzaj-tekst h5 {
+  margin-left: 10px;
+  font-weight: 350;
+  font-size: 15px;
+  color: rgb(77, 75, 75);
+}
+.menadzment-sadrzaj-tekst p {
+  margin-left: 10px;
+  color: rgb(158, 157, 157);
+}
+.menadzment-container {
+  height: 1270px;
+  background-color: rgb(214, 211, 211);
+  padding-top: 10px;
+}
+.menadzment-container-sadrzaj {
+  margin: 70px;
+  margin-top: 20px;
+  background-color: white;
+  height: 1270px;
+}
+.menadzment-sadrzaj {
+  padding-top: 30px;
+}
+.ES-container {
+  height: 800px;
+  background-color: rgb(214, 211, 211);
+  padding-top: 10px;
+}
+.ES-container-sadrzaj {
+  margin: 70px;
+  margin-top: 20px;
+  background-color: white;
+  height: 800px;
+}
+.text-container-IN {
+  width: 900px;
+  border-radius: 8px;
+  margin-right: 70px;
+}
+.text-container-IN img {
+  margin-left: 300px;
+}
+.linija-2-IN-1 {
+  border-top: 3px rgb(233, 230, 230) solid;
+  width: 1200px;
+  margin-left: -150px;
+  margin-top: 0px;
+}
+.linija-2-IN-2 {
+  border-top: 3px rgb(233, 230, 230) solid;
+  width: 1200px;
+  margin-left: -150px;
+  margin-top: 50px;
+}
+.services h1 {
+  text-align: center;
+  color: rgb(134, 131, 131);
+  margin-top: 20px;
+}
+.services h5 {
+  text-align: center;
+  color: rgb(134, 131, 131);
+}
+.single-service {
+  width: 500px;
+  font-weight: 600px;
+  margin-left: 190px;
+  display: block;
+  margin-top: 35px;
+}
+.service-naslov {
+  text-align: center;
+  border: 1px rgb(204, 201, 201) solid;
+  background-color: rgb(206, 203, 203);
+  color: white;
+  width: 500px;
+  font-size: 12px;
+}
+.single-service p {
+  margin-top: 10px;
+}
+.institut-container {
+  height: 1320px;
+  background-color: rgb(214, 211, 211);
+  padding-top: 10px;
+}
+.institut-container-sadrzaj {
+  margin: 70px;
+  margin-top: 20px;
+  background-color: white;
+  height: 1290px;
+  margin: 20px 70px 0px;
+}
+.forum img {
+  width: 1300px;
+  margin-left: 45px;
+}
+.forum p {
+  margin-left: 45px;
+  margin-right: 45px;
+  margin-top: 20px;
+}
+.forum-container {
+  height: 2050px;
+  background-color: rgb(214, 211, 211);
+  padding-top: 10px;
+}
+.forum-container-sadrzaj {
+  margin: 0px 70px;
+  margin-top: 20px;
+  background-color: white;
+  height: 2000px;
+}
+.linija-1-VS {
+  border-top: rgb(168, 168, 168) solid 1px;
+  width: 1300px;
+  margin-left: 40px;
+}
+.date-icon {
+  width: 10px;
+  margin-left: 30px;
+}
+.vesti-sadrzaj-tekst {
+  margin-left: 250px;
+  margin-top: 30px;
+}
+.vesti-sadrzaj-img img {
+  width: 280px;
+  margin-left: 30px;
+  margin-top: -210px;
+}
+.vesti-sadrzaj-tekst h3 {
+  color: red;
+  font-weight: 400;
+  margin-bottom: 30px;
+  margin-left: 80px;
+}
+.vesti-sadrzaj-tekst h5 {
+  margin-left: 80px;
+  font-weight: 350;
+  font-size: 15px;
+  color: rgb(77, 75, 75);
+  margin-top: 10px;
+}
+.vesti-sadrzaj-tekst p {
+  margin-left: 80px;
+  color: rgb(158, 157, 157);
+  margin-top: 10px;
+}
+.clanci {
+  background-color: rgb(214, 211, 211);
+  height: 800px;
+  padding-top: 2px;
+}
+.clanci-sadrzaj {
+  margin: 70px;
+  margin-top: 20px;
+  background-color: white;
+  height: 800px;
+}
+.glavni-naslov {
+  color: rgb(150, 148, 148);
+
+  margin-top: 20px;
+}
+.linija-1-CL {
+  width: 1300px;
+  border-top: 1px solid rgb(150, 148, 148);
+  margin-left: 30px;
+  padding-bottom: 20px;
+}
+.clanci .clanci-sadrzaj .glavni-naslov {
+  margin-left: 30px;
+  margin-top: 30px;
+}
+.vesti .vesti-sadrzaj .glavni-naslov {
+  margin-left: 36px;
+  margin-top: 30px;
+}
+.vesti {
+  background-color: rgb(214, 211, 211);
+  height: 800px;
+  padding-top: 2px;
+}
+.vesti-sadrzaj {
+  margin: 70px;
+  margin-top: 20px;
+  background-color: white;
+  height: 800px;
+}
+.linija-1-VS {
+  padding-bottom: 30px;
+}
+.blog {
+  background-color: rgb(214, 211, 211);
+  height: 800px;
+  padding-top: 2px;
+}
+.blog-sadrzaj {
+  margin: 70px;
+  margin-top: 20px;
+  background-color: white;
+  height: 800px;
+}
+.blog .blog-sadrzaj .glavni-naslov {
+  margin-left: 36px;
+  margin-top: 30px;
+}
+.linija-1-BG {
+  width: 1300px;
+  border-top: 1px solid rgb(150, 148, 148);
+  margin-left: 30px;
+  padding-bottom: 50px;
+}
+.glavni-naslov-BG {
+  margin-left: 36px !important;
+}
+.galerija-1 {
+  display: inline-flex;
+  margin-left: 200px;
+  margin-top: 70px;
+}
+.slika {
+  margin-left: 70px;
+}
+.galerija {
+  background-color: rgb(214, 211, 211);
+  height: 500px;
+  padding-top: 2px;
+}
+.galerija-sadrzaj {
+  margin: 70px;
+  margin-top: 50px;
+  background-color: white;
+  height: 500px;
+  margin: 20px 70px -20px;
+}
+.galerija .galerija-sadrzaj .glavni-naslov-BG {
+  color: rgb(131, 130, 130);
+  margin-top: 30px;
+}
+.project-box {
+  background-color: rgb(240, 233, 233);
+  width: 400px;
+  margin-left: 50px;
+  padding-bottom: 10px;
+}
+.project-box h3 {
+  color: rgb(158, 14, 14);
+  margin-left: 20px;
+  padding: 10px;
+  font-weight: 400;
+}
+.project-box p {
+  margin-left: 30px;
+}
+.project-box hr {
+  width: 350px;
+  margin-left: 30px;
+}
+.project-box button {
+  background-color: rgb(168, 35, 35);
+  color: white;
+  padding: 8px;
+  margin-left: 30px;
+  border: 1px solid white;
 }
